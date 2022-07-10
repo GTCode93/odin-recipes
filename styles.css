@@ -1,0 +1,26 @@
+body {
+    background-color: #fddec5;
+    font-family:Verdana, Arial, sans-serif;
+}
+h1 {
+    color: rgb(255, 139, 7);
+}
+.indexfont{
+    font-weight: bold;
+    text-align: center;
+}
+a, 
+.backhome {
+    color: rgb(8, 83, 8);
+}
+img {
+    height: auto;
+    width: 300px;
+}
+.backhome {
+    text-align: center;
+    font-weight: bold;
+}
+.websitelink {
+    font-weight: bold;
+}
